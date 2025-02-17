@@ -14,3 +14,5 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 8. **Organize Code with Namespaces in TypeScript**: [Badge](https://learn.microsoft.com/en-us/users/oibioib/achievements/uy5h2rc3)
 
 ## Reflections
+
+An interesting course to start learning Typescript, but unfortunately no longer available.
